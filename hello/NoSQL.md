@@ -26,3 +26,9 @@
 
 * weaker support of ACID transactions
 * it has limited no. of querying capabilities compared with SQL
+
+## Conclusion
+
+* NOSQL comes to solve limitations of traditional relational databases in handling data workloads
+conclusioon
+* NoSQL databases are now essential for modern applications in industries like social media, e-commerce, IoT, and real-time analytics, providing faster, more reliable data storage solutions
